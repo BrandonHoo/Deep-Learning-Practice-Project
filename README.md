@@ -6,4 +6,4 @@
 
 ## 3 实战案列 BP_Practice
 
-## 4 实战案例 LeNet_5[LeNet_5](https://github.com/BrandonHoo/Deep-Learning-Practice-Project/blob/master/LeNet_5_MNIST_practice.py)
+## 4 实战案例 LeNet_5[LeNet_5](./LeNet_5_MNIST_practice.py)
