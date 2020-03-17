@@ -1,6 +1,6 @@
 # 深度学习实战集锦
 
-## 1 实战案例 [Linear Regression](./Linear_Regression.py)
+## 1 实战案例 [Linear Regression](./Linear_Regressin.py)
 
 ## 2 实战案例 Logistics Regression 
 
