@@ -2,7 +2,7 @@
 
 ## 1 实战案例 [Linear Regression](./Linear_Regressin.py)
 
-## 2 实战案例 Logistics Regression 
+## 2 实战案例 [Logistics Regression](./Logistic_Regression_practice.py) 
 
 ## 3 实战案列 BP_Practice
 
