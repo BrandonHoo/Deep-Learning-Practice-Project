@@ -1,4 +1,4 @@
-#The code base on https://github.com/BrandonHoo/pytorch-handbook/tree/master/chapter3
+#The code base on https://github.com/zergtant/pytorch-handbook
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
