@@ -1,3 +1,4 @@
+#The code base on https://github.com/zergtant/pytorch-handbook
 import torch     # pytorch 实现
 import torch.nn as nn 
 import numpy as np   #处理矩阵运算
